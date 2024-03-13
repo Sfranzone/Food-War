@@ -1,4 +1,4 @@
-![Food War Title](./Images/title.png)
+# ![Food War Title](./Images/title.png)
 Fiction interactive créée dans le cadre du cours de l'Université de Lausanne "Fictions Interactives" donné par Isaac Pante
 
 
