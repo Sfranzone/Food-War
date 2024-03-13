@@ -1,9 +1,8 @@
 # ![Food War Title](./Images/title.png)
-Fiction interactive créée dans le cadre du cours de l'Université de Lausanne "Fictions Interactives" donné par Isaac Pante
 
 
 # une brève description (en français ou en anglais) de votre rendu et de ses fonctionnalités
-
+Fiction interactive créée dans le cadre du cours de l'Université de Lausanne "Fictions Interactives" donné par Isaac Pante
 
 
 # au moins une capture illustrant votre travail ; attention, pour la VR, un GIF est requis
