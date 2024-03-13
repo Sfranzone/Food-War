@@ -1,4 +1,4 @@
-# Food War
+![Food War Title](./Images/title.png)
 Fiction interactive créée dans le cadre du cours de l'Université de Lausanne "Fictions Interactives" donné par Isaac Pante
 
 
@@ -11,23 +11,18 @@ Fiction interactive créée dans le cadre du cours de l'Université de Lausanne 
 
 
 
-# Procédure de téléchargement :
+# Procédure de téléchargement
 1. Aller sur le [lien de téléchargement](https://tatsumakyy.itch.io/food-war/download/3ugLT7o5MnQXU7PS1hj1H9Q1BxVzseQeTOCNDz_H)
 2. Télécharger le fichier .zip
 3. Extraire les fichiers à un endroit
 4. Lancer le fichier index.html
 
 
+# Références
+## Sons
 
-# les éventuels modules, librairies ou scripts intégrés ou nécessaires au bon fonctionnement de votre rendu
-
-
-
-
-
-# les éventuels copyrights, informations de licence, et autres références de vos sources et ressources y compris en matière de code récupéré
-
-
+## Images
+Lien de l'image de l'écran titre : 
 
 
 
