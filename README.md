@@ -2,7 +2,7 @@
 
 
 # une brève description (en français ou en anglais) de votre rendu et de ses fonctionnalités
-Fiction interactive créée dans le cadre du cours de l'Université de Lausanne "Fictions Interactives" donné par Isaac Pante
+
 
 
 # au moins une capture illustrant votre travail ; attention, pour la VR, un GIF est requis
@@ -21,11 +21,13 @@ Fiction interactive créée dans le cadre du cours de l'Université de Lausanne 
 ### Sons
 - Les sons gratuits ont été téléchargés sur [chosic.com](https://www.chosic.com/free-music/all/) et [uppbeat.io/](https://uppbeat.io/)
 ### Images
-- Image de l'écran titre trouvée sur : [wallpaperset.com/medieval-backgrounds](https://wallpaperset.com/medieval-backgrounds)
-- Les autres images ont été générées à l'aide d'une Intelligence Artificielle sur : [playground.com](https://playground.com/)
+- Image de l'écran titre : [wallpaperset.com/medieval-backgrounds](https://wallpaperset.com/medieval-backgrounds)
+- Autres images générées à l'aide d'une Intelligence Artificielle : [playground.com](https://playground.com/)
 
 
-# le contexte de développement (exemple : Ce projet a été développé dans le cadre du cours "nom de l’enseignement" dispensé par Isaac Pante (SLI, Lettres, UNIL)).
+# Contexte
+
+Ce projet a été développé dans le cadre du cours "Fictions Interactives" dispensé par Isaac Pante (SLI, Lettres, UNIL).
 
 
 
