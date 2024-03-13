@@ -1,5 +1,5 @@
 # ![Food War Title](./Images/title.png)
-
+#### Sébastien Franzone
 
 # une brève description (en français ou en anglais) de votre rendu et de ses fonctionnalités
 
