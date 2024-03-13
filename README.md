@@ -11,8 +11,11 @@ Fiction interactive créée dans le cadre du cours de l'Université de Lausanne 
 
 
 
-# la procédure d’installation / de lancement
-
+# Procédure de téléchargement :
+1. Aller sur le [lien de téléchargement](https://tatsumakyy.itch.io/food-war/download/3ugLT7o5MnQXU7PS1hj1H9Q1BxVzseQeTOCNDz_H)
+2. Télécharger le fichier .zip
+3. Extraire les fichiers à un endroit
+4. Lancer le fichier index.html
 
 
 
