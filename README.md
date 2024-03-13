@@ -18,11 +18,11 @@ Fiction interactive créée dans le cadre du cours de l'Université de Lausanne 
 
 
 # Références
-## Sons
+### Sons
 
-## Images
-Lien de l'image de l'écran titre : 
-
+### Images
+Image de l'écran titre trouvée sur : [wallpaperset.com/medieval-backgrounds](https://wallpaperset.com/medieval-backgrounds)
+Les autres images ont été générées à l'aide d'une Intelligence Artificielle sur : [playground.com](https://playground.com/)
 
 
 # le contexte de développement (exemple : Ce projet a été développé dans le cadre du cours "nom de l’enseignement" dispensé par Isaac Pante (SLI, Lettres, UNIL)).
