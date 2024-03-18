@@ -10,6 +10,7 @@ Le but de cette fiction interactive sera de faire différencier aux personnes y 
 # Game captures
 - Exemple de choix donné dans la fiction interactive :
 ![gamecapture1](./Images/gamescreen1.png)
+
 - Exemple avec les jauges de fibres, protéines, sel et graisses
 ![gamecapture2](./Images/gamescreen2.png)
 
