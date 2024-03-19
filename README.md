@@ -32,7 +32,6 @@ Le but de cette fiction interactive sera de faire différencier aux personnes y 
 
 
 # Contexte
-
 Ce projet a été développé dans le cadre du cours "Fictions Interactives" dispensé par Isaac Pante (SLI, Lettres, UNIL) et n'est pas un produit fini. Des mises à jour seront à venir.
 
 
