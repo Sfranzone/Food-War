@@ -1,5 +1,6 @@
 # ![Food War Title](./Images/title.png)
-#### Sébastien Franzone
+#### Réalisé par Sébastien Franzone
+#### Ce produit est une version Alpha.
 
 # Description de la fiction interactive et de ses fonctionnalités
 Une fiction interactive sur le thème de la santé, plus précisément sur la nourriture et ses bienfaits ou méfaits. Dans cette fiction interactive, vous incarnerez l'héritier ou héritière des tenants de la meilleure taverne du royaume. Vos parents sont partis à la retraite en vous léguant la fameuse taverne. Vous serez amené à faire des choix de plats pour nourrire le royaume et même les armées lorsqu'une guerre éclate.
@@ -32,7 +33,7 @@ Le but de cette fiction interactive sera de faire différencier aux personnes y 
 
 
 # Contexte
-Ce projet a été développé dans le cadre du cours "Fictions Interactives" dispensé par Isaac Pante (SLI, Lettres, UNIL) et n'est pas un produit fini. Des mises à jour seront à venir.
+Ce projet a été développé dans le cadre du cours "Fictions Interactives" dispensé par Isaac Pante (SLI, Lettres, UNIL).
 
 
 
