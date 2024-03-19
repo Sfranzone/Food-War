@@ -22,7 +22,7 @@ Le but de cette fiction interactive sera de faire différencier aux personnes y 
 2. Télécharger le fichier .zip
 3. Extraire les fichiers à un endroit
 4. Lancer le fichier index.html
-5. Enjoy ![yay](./Images/smiley_happy.png)
+5. Enjoy !
 
 
 # Références
