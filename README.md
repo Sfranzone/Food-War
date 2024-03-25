@@ -1,4 +1,4 @@
-# ![Food War Title](./Images/title.png)
+# ![Food War Title](./Images/title_corrected.png)
 #### Réalisé par Sébastien Franzone
 #### Ce produit est une version Alpha.
 
